@@ -7,9 +7,8 @@ box-sizing: border-box;
 }
 
 
-
 body{
-  background: url(image/background.png)no-repeat center top/cover;
+  background: url(images/background.png)no-repeat center top/cover;
     color: white;
     overflow-x: hidden;
 }
